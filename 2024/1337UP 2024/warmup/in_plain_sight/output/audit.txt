@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Nov 16 19:39:26 2024
+Invocation: foremost meow.jpg 
+Output directory: /home/kali/ctf/1337UP 2024/warmup/in_plain_sight/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: meow.jpg
+Start: Sat Nov 16 19:39:26 2024
+Length: 2 MB (2146998 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00004189.zip 	       2 KB 	    2144878 	 
+Finish: Sat Nov 16 19:39:26 2024
+
+1 FILES EXTRACTED
+	
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Nov 16 19:39:26 2024

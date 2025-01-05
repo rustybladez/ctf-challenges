@@ -1,0 +1,83 @@
+body {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  margin: 0;
+}
+
+header {
+  padding: 2rem 2rem 2rem 2rem;
+  background-image: url("https://images.unsplash.com/photo-1474564862106-1f23d10b9d72?q=80&w=2091&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+}
+
+header > h1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
+
+main {
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: flex;
+  flex-direction: column;
+  /* gap: 0.75rem; */
+}
+
+h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.125rem;
+}
+
+a {
+  font-weight: 700;
+  color: blue;
+  text-decoration-line: underline;
+}
+
+img {
+  max-width: 24rem;
+}
+
+footer {
+  font-size: 0.75rem;
+  color: red;
+  padding-top: 1rem;
+}
+
+main {
+  width: 100%;
+}
+@media (min-width: 640px) {
+  main {
+    max-width: 640px;
+  }
+}
+@media (min-width: 768px) {
+  main {
+    max-width: 768px;
+  }
+}
+@media (min-width: 1024px) {
+  main {
+    max-width: 1024px;
+  }
+}
+@media (min-width: 1280px) {
+  main {
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1536px) {
+  main {
+    max-width: 1536px;
+  }
+}

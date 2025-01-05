@@ -1,0 +1,22 @@
+[*] Attempting to decrypt encrypted_friend2.txt...
+[+] Decryption Successful for encrypted_friend2.txt!
+Password: 2016qatar
+Decrypted Content:
+Ossama: Do you have any updates on the project?
+Khalid: Yes, but I want to remind you to be careful. There are some eyes watching us.
+Ossama: Don't worry, the whole team is aware of the situation.
+Khalid: But there's something unexpected—there might be leaks from inside the organization.
+Ossama: Then we need to change our plans. We can't take any risks, here is the your part _no_easy_challs
+Khalid: I'll secure all the channels. Don't worry.
+
+[*] Attempting to decrypt encrypted_friend3.txt...
+[+] Decryption Successful for encrypted_friend3.txt!
+Password: 1980turkey
+Decrypted Content:
+Ossama: Do you remember the secret meeting we had last week?
+Ali: Yes, but I need to remind you that any leaks could have severe consequences.
+Ossama: We know, that's why I don't allow anyone access to sensitive information, here is your part anymore}
+Ali: I hope we have enough time to complete everything before they find out what we're doing.
+Ossama: We'll finish everything on time, we just need to work together and stay cautious.
+
+Flag: _no_easy_challs_anymore}

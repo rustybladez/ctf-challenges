@@ -1,0 +1,143 @@
+Received: 
+Received: ⠀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠘⡇⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⢷⠀⢠⢣⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⢘⣷⢸⣾⣇⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⣿⣿⣿⣹⣿⣿⣷⣿⣆⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⢼⡇⣿⣿⣽⣶⣶⣯⣭⣷⣶⣿⣿⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠸⠣⢿⣿⣿⣿⣿⡿⣛⣭⣭⣭⡙⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⠿⠿⠿⢯⡛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣾⣿⡿⡷⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⠀⡔⣺⣿⣿⣽⡿⣿⣿⣿⣟⡳⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⢠⣭⣾⣿⠃⣿⡇⣿⣿⡷⢾⣭⡓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⣾⣿⡿⠷⣿⣿⡇⣿⣿⣟⣻⠶⣭⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⠀⠀⣋⣵⣞⣭⣮⢿⣧⣝⣛⡛⠿⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⣀⣀⣠⣶⣿⣿⣿⣿⡿⠟⣼⣿⡿⣟⣿⡇⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⡼⣿⣿⣿⢟⣿⣿⣿⣷⡿⠿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠉⠁⠀⢉⣭⣭⣽⣯⣿⣿⢿⣫⣮⣅⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⠀⢀⣿⣟⣽⣿⣿⣿⣿⣾⣿⣿⣯⡛⠻⢷⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⢀⡞⣾⣿⣿⣿⣿⡟⣿⣿⣽⣿⣿⡿⠀⠀⠀⠈⠙⠛⠿⣶⣤⣄⡀⠀⠀
+Received: ⠀⠀⠀⣾⣸⣿⣿⣷⣿⣿⢧⣿⣿⣿⣿⣿⣷⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⢷⣦
+Received: ⠀⠀⠀⡿⣛⣛⣛⣛⣿⣿⣸⣿⣿⣿⣻⣿⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⢸⡇⣿⣿⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Received: ⠀⠀⠀⢰⣶⣶⣶⣾⣿⢃⣿⣿⣿⣿⣯⣿⣭⠁
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: ------ 迷えば敗れる ------
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: 
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏          ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: advance
+Opponent move: advance
+My move: retreat
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: ------ 鼠が、網 一匹. いや、その眼…飢えた狼か... ------
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: 
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: block
+Opponent move: block
+My move: advance
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: strike
+Opponent move: strike
+My move: block
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: ------ 血が、ぎって来たわ! ------
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Received: 
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: strike
+Opponent move: strike
+My move: block
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: strike
+Opponent move: strike
+My move: block
+Received: Your move:
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: advance
+Opponent move: advance
+My move: retreat
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: Opponent move: advance
+Opponent move: advance
+My move: retreat
+Received: Your move:
+Received: 
+Received: 
+Received: ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
+Received: ~~~~~~~~~~~~~~~~~~ 忍殺! ~~~~~~~~~~~~~~~~~~~~
+Special message received. Waiting for flag.
+Connection closed by the server.
